@@ -1,7 +1,7 @@
 from langchain_groq import ChatGroq
 groq_api_key ="YOUR_GROQ_API_KEY"  # Replace with your actual Groq API key
 llm=ChatGroq(groq_api_key=groq_api_key, model_name="llama-3.1-8b-instant")
-#https://www.youtube.com/watch?v=b2iM9bPdAEs&list=PLZoTAELRMXVNAprLfaHq64tBeCGvWSVpv
+
 
 
 #tools   
